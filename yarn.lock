@@ -767,6 +767,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@mdi/font@npm:7.0.96":
+  version: 7.0.96
+  resolution: "@mdi/font@npm:7.0.96"
+  checksum: 3bc71dc45e784af98fc41ff58eedd77b7ec93fdd5ad2ea599914efd7eff0412db97e4d1766ae3abb55d90a39e5e6dbc550ffe36c72fa504d5b2b021b5aa16f8e
+  languageName: node
+  linkType: hard
+
 "@netlify/functions@npm:^1.3.0":
   version: 1.4.0
   resolution: "@netlify/functions@npm:1.4.0"
@@ -7406,6 +7413,7 @@ __metadata:
     "@commitlint/cli": ^17.1.2
     "@commitlint/config-conventional": ^17.1.0
     "@commitlint/cz-commitlint": ^17.1.2
+    "@mdi/font": 7.0.96
     "@nuxtjs/eslint-config-typescript": ^11.0.0
     commitizen: ^4.2.5
     eslint: ^8.26.0
@@ -7427,6 +7435,7 @@ __metadata:
     stylelint-config-recommended-vue: ^1.1.0
     stylelint-config-standard: ^24.0.0
     typescript: ^4.8.4
+    vuetify: ^3.1.0
   languageName: unknown
   linkType: soft
 
@@ -10590,6 +10599,25 @@ __metadata:
     "@vue/server-renderer": 3.2.45
     "@vue/shared": 3.2.45
   checksum: df60ca80cb9fdce408eccd0c7a4d44720df9855c62e340448650d8048b1edd25da6f3bd99ed7efc19efbe1f3fdcec4ae8067ab10ae50be5bb363d996ad29251a
+  languageName: node
+  linkType: hard
+
+"vuetify@npm:^3.1.0":
+  version: 3.1.0
+  resolution: "vuetify@npm:3.1.0"
+  peerDependencies:
+    vite-plugin-vuetify: ^1.0.0-alpha.12
+    vue: ^3.2.0
+    vue-i18n: ^9.0.0
+    webpack-plugin-vuetify: ^2.0.0-alpha.11
+  peerDependenciesMeta:
+    vite-plugin-vuetify:
+      optional: true
+    vue-i18n:
+      optional: true
+    webpack-plugin-vuetify:
+      optional: true
+  checksum: 764a6349013916975a4172ae3ecace6527da62a881420465608f3313d75b56d3b3c9649c4d4ab78873d7b16f8d5425caa3b8dcaa8e39b3060fd4f346010b307c
   languageName: node
   linkType: hard
 
