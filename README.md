@@ -1,8 +1,8 @@
-# NuxtJS With Typescript Example Template
+# Nuxt3 + Vuetify3 Example Template
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-An example template scaffolded using [Nuxt.js](https://v3.nuxtjs.org) with Typescript and [sass](https://sass-lang.com/) to start a new project.
+An example template scaffolded using [Nuxt.js](https://v3.nuxtjs.org) and [Vuetify](https://next.vuetifyjs.com/) to start a new project.
 
 ## Why this template
 
@@ -10,7 +10,7 @@ This template includes pre-installed plugins suchas [prettier](https://prettier.
 
 ## Before getting started
 
-Make sure you have installed [Node.js 16.11.0 or higher](https://nodejs.org/en/) on your machine. You can use [nvm](https://github.com/nvm-sh/nvm) to manage multiple node version on your machine.
+Make sure you have installed [Node.js 16.15.0 or higher](https://nodejs.org/en/) on your machine. You can use [nvm](https://github.com/nvm-sh/nvm) to manage multiple node version on your machine.
 
 ## Getting started
 
@@ -22,16 +22,16 @@ You can setup this project using npm or yarn package managers.
 
 ```bash
 # https
-git clone https://github.com/binodnepali/nuxtjs-with-typescript-example-template.git
+git clone https://github.com/binodnepali/nuxt3-with-vuetify3-example-template.git
 
 # ssh
-git clone git@github.com:binodnepali/nuxtjs-with-typescript-example-template.git
+git clone git@github.com:binodnepali/nuxt3-with-vuetify3-example-template.git
 ```
 
 ### Navigate to cloned repo
 
 ```bash
-cd nuxtjs-with-typescript-example-template
+cd nuxt3-with-vuetify3-example-template
 ```
 
 ### Setup

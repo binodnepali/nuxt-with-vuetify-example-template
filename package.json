@@ -1,10 +1,10 @@
 {
-  "name": "nuxt-with-vuetify-example-template",
+  "name": "nuxt3-with-vuetify3-example-template",
   "version": "1.0.0",
-  "description": "Nuxt.js with vuetify example template",
+  "description": "Nuxt3 with vuetify3 example template.",
   "private": true,
   "engines": {
-    "node": ">=16.11.0"
+    "node": ">=16.15.0"
   },
   "scripts": {
     "build": "nuxt build",
