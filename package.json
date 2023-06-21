@@ -4,7 +4,7 @@
   "description": "Nuxt3 with vuetify3 example template.",
   "private": true,
   "engines": {
-    "node": ">=16.15.0"
+    "node": ">=16.10.0"
   },
   "scripts": {
     "build": "nuxt build",
@@ -30,7 +30,9 @@
     "@commitlint/config-conventional": "^17.1.0",
     "@commitlint/cz-commitlint": "^17.1.2",
     "@mdi/font": "7.0.96",
+    "@nuxt/devtools": "latest",
     "@nuxtjs/eslint-config-typescript": "^11.0.0",
+    "@types/node": "^18",
     "commitizen": "^4.2.5",
     "eslint": "^8.26.0",
     "eslint-config-prettier": "^8.5.0",
@@ -39,7 +41,7 @@
     "husky": "^8.0.1",
     "inquirer": "8",
     "lint-staged": "^13.0.3",
-    "nuxt": "3.0.0-rc.12",
+    "nuxt": "^3.5.3",
     "postcss": "^8.4.4",
     "postcss-html": "^1.3.0",
     "prettier": "^2.7.1",
@@ -50,7 +52,6 @@
     "stylelint-config-recommended-scss": "^8.0.0",
     "stylelint-config-recommended-vue": "^1.1.0",
     "stylelint-config-standard": "^24.0.0",
-    "typescript": "^4.8.4",
-    "vuetify": "^3.1.0"
+    "vuetify": "^3.3.5"
   }
 }

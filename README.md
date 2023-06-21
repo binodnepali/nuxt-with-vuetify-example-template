@@ -10,7 +10,7 @@ This template includes pre-installed plugins suchas [prettier](https://prettier.
 
 ## Before getting started
 
-Make sure you have installed [Node.js 16.15.0 or higher](https://nodejs.org/en/) on your machine. You can use [nvm](https://github.com/nvm-sh/nvm) to manage multiple node version on your machine.
+Make sure you have installed [Node.js 16.10.0 or higher](https://nodejs.org/en/) on your machine. You can use [nvm](https://github.com/nvm-sh/nvm) to manage multiple node version on your machine.
 
 ## Getting started
 
