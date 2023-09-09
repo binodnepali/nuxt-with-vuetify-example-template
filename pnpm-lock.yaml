@@ -84,8 +84,8 @@ devDependencies:
     specifier: ^24.0.0
     version: 24.0.0(stylelint@14.14.0)
   vuetify:
-    specifier: ^3.3.5
-    version: 3.3.5(typescript@5.2.2)(vue@3.3.4)
+    specifier: ^3.3.15
+    version: 3.3.15(typescript@5.2.2)(vue@3.3.4)
 
 packages:
 
@@ -1699,6 +1699,7 @@ packages:
     dependencies:
       is-glob: 4.0.3
       micromatch: 4.0.5
+      napi-wasm: 1.1.0
     dev: true
     bundledDependencies:
       - napi-wasm
@@ -6777,6 +6778,10 @@ packages:
     hasBin: true
     dev: true
 
+  /napi-wasm@1.1.0:
+    resolution: {integrity: sha512-lHwIAJbmLSjF9VDRm9GoVOy9AGp3aIvkjv+Kvz9h16QR3uSVYH78PNQUnT2U4X53mhlnV2M7wrhibQ3GHicDmg==}
+    dev: true
+
   /natural-compare-lite@1.4.0:
     resolution: {integrity: sha512-Tj+HTDSJJKaZnfiuw+iaF9skdPpTo2GtEly5JHnWV/hfv2Qj/9RKsGISQtLh2ox3l5EAGw487hnBee0sIJ6v2g==}
     dev: true
@@ -9920,8 +9925,8 @@ packages:
       '@vue/shared': 3.3.4
     dev: true
 
-  /vuetify@3.3.5(typescript@5.2.2)(vue@3.3.4):
-    resolution: {integrity: sha512-vkfPgPmKfSJa+jq6Ov+CTg7L1t2jLPKa7Slef9OrVHcLqg+gLuIj0z4PJE6E9HjFTUbgZShShOGxps52REJRIA==}
+  /vuetify@3.3.15(typescript@5.2.2)(vue@3.3.4):
+    resolution: {integrity: sha512-n7GYBO31k8vA9UfvRwLNyBlkq1WoN3IJ9wNnIBFeV4axleSjFAzzR4WUw7rgj6Ba3q6N2hxXoyxJM21tseQTfQ==}
     engines: {node: ^12.20 || >=14.13}
     peerDependencies:
       typescript: '>=4.7'
