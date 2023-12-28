@@ -4,7 +4,7 @@
   "description": "Nuxt with vuetify example template.",
   "private": true,
   "engines": {
-    "node": ">=16.10.0"
+    "node": ">=18"
   },
   "scripts": {
     "build": "nuxt build",
