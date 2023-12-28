@@ -2,11 +2,11 @@
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-This example template was scaffolded using [nuxt-with-typescript-example-template](https://github.com/binodnepali/nuxt-with-typescript-example-template).
+This example template was scaffolded using [nuxt-with-typescript-example-template](https://github.com/binodnepali/nuxt-with-typescript-example-template) and this template adds [vuetify3](https://vuetifyjs.com/).
 
 ## Before getting started
 
-Make sure you have installed [Node.js 16.10.0 or higher](https://nodejs.org/en/) on your machine. You can use [nvm](https://github.com/nvm-sh/nvm) to manage multiple node version on your machine.
+Make sure you have installed [Node.js 18 or higher](https://nodejs.org/en/) on your machine. You can use [nvm](https://github.com/nvm-sh/nvm) to manage multiple node version on your machine.
 
 ## Getting started
 
